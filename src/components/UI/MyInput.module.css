@@ -1,0 +1,6 @@
+.myInput {
+  font-size: 20px;
+  border: 2px solid lightgrey;
+  cursor: pointer;
+  width: 500px;
+}
